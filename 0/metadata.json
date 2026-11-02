@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.12.2",
+  "checkpoint_id": "01M6F0QV6SPX4NJ2C1W2A4T40M",
+  "session_id": "86cc6d91-4da2-4cc1-81ac-e6faee80cbf0",
+  "strategy": "manual-commit",
+  "created_at": "2026-11-02T20:55:44.423337Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "docs/hello-entire.md"
+  ],
+  "agent": "Cursor",
+  "model": "grok-4.7-high-fast",
+  "turn_id": "18892dd226d0",
+  "compact_transcript_start": 0,
+  "redaction": {
+    "replacements": 0,
+    "layers": {
+      "betterleaks": 0,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 0,
+      "credentialed_uri": 0,
+      "entropy": 0,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
